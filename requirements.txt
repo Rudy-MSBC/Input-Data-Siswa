@@ -1,0 +1,7 @@
+streamlit
+pandas
+networkx
+matplotlib
+python-docx
+openpyxl
+Pillow
